@@ -1,0 +1,19 @@
+{
+  "scores": [
+    {
+      "username": "gamer1",
+      "score": 5,
+      "id": 1
+    },
+    {
+      "username": "mbesimgurbuz",
+      "score": 0,
+      "id": 2
+    },
+    {
+      "username": "asdfadsf",
+      "score": 2,
+      "id": 3
+    }
+  ]
+}
