@@ -6,7 +6,7 @@ Axios
 json-server
 `npm install json-server` or `yarn add json-server`
 ## json-server
-`api/db.json`t his file will be our dynamic database. <br>
+`api/db.json`this file will be our dynamic database. <br>
 Starting json-server
 `json-server --watch db.json --port 3001`
 
