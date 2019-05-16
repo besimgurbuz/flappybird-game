@@ -1,12 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Necessary Packages 
-Axios
-### `npm install axios` or `yarn add axios` <br>
-json-server
-### `npm install json-server` or `yarn add json-server`
 ### json-server
-`api/db.json`this file will be our dynamic database. <br>
+Create `db.json` <br>
 Starting json-server
 `json-server --watch db.json --port 3001`
 
