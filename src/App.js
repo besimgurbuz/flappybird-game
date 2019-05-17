@@ -72,9 +72,6 @@ class Game extends Component {
     this.space = 120;
     this.pipes = [];
     this.birds = [];
-    this.state = {
-      scores: []
-    };
   }
   componentDidMount() {
     document.addEventListener('keydown', this.onKeyDown);
