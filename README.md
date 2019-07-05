@@ -11,7 +11,7 @@ Game coded with React
 
 ![](scoreboard.png)
 
-## Install
+## Install and first start
 
 1. `npm install` or `yarn add`
 2. `cd api`
