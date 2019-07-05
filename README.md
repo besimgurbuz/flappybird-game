@@ -1,4 +1,4 @@
-# FLappy Bird Game
+# Flappy Bird Game
 
 Game coded with React
 
