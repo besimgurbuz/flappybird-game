@@ -2,7 +2,7 @@
 
 Game coded with React
 
-## How to play
+### How to play
 `spacebar` to flap the wing. 
 
 ![](readme.gif)
