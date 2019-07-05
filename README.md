@@ -7,12 +7,19 @@ Game coded with React
 
 ![](readme.gif)
 
-## Install 
-### `npm start`
+### Scoreboard
+
+![](scoreboard.png)
+
+## Install
+
+1. `npm install` or `yarn add`
+2. `cd api`
+3.  `json-server --watch db.json --port 3001`
+4. `npm start` or `yarn start`
+5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 

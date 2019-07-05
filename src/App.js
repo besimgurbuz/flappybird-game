@@ -218,7 +218,7 @@ class App extends Component {
           <table style={{textAlign:"center",margin:"10px auto"}}>
             <thead>
               <tr>
-                <th>Place</th>
+                <th>Rank</th>
                 <th>Username</th>
                 <th>Score</th>
               </tr>
