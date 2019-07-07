@@ -16,8 +16,9 @@ Game coded with React
 1. `npm install` or `yarn add`
 2. `cd api`
 3.  `json-server --watch db.json --port 3001`
-4. `npm start` or `yarn start`
-5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+4. `cd ..`
+5. `npm start` or `yarn start`
+6. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Runs the app in the development mode.<br>
 The page will reload if you make edits.<br>
