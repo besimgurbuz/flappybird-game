@@ -1,6 +1,7 @@
 {
   "name": "flappy-app",
   "version": "0.1.0",
+  "author":"besimgurbuz",
   "private": true,
   "dependencies": {
     "axios": "^0.18.1",
